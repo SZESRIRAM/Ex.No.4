@@ -45,6 +45,11 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+## Output
+
+![image alt](https://github.com/SZESRIRAM/Ex.No.4/blob/main/EXP%204%20Page%201.jpg?raw=true)
+![image alt](https://raw.githubusercontent.com/SZESRIRAM/Ex.No.4/refs/heads/main/EXP%204%20Page%202.jpg)
+
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
